@@ -1,0 +1,54 @@
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+    color: aqua;
+    background-color: black;
+    font-size: 36px;
+    font-family: "Times New Roman", Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+ul {
+    color: blue;
+    background-color: rgb(255, 170, 0);
+    font-size: 22px;
+    font-family: "Times New Roman", Arial, Helvetica, sans-serif;
+}
+
+img {
+    position: relative;
+    left: 180px;
+    border: 3px solid #ecaf07;
+    height:auto;
+    width: 500px;
+}
+
+/* Sub pages section */
+
+.sub {
+    text-align: center;
+}
+
+.ing {
+    font-size: 23px;
+}
+
+.adjustimg {
+    height: auto;
+    width: 25%;
+    position: relative;
+    left:37%;
+}
+
+.adjustimg.two {
+    height: auto;
+    width: 25%;
+    position: relative;
+    left: 5%;
+}
+
+.link {
+    text-align: left;
+}
